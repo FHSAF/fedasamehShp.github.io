@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/shop-hub2/static/css/main.053be60a.chunk.css",
-    "main.js": "/shop-hub2/static/js/main.84f12a0d.chunk.js",
-    "main.js.map": "/shop-hub2/static/js/main.84f12a0d.chunk.js.map",
-    "runtime-main.js": "/shop-hub2/static/js/runtime-main.fb4bd158.js",
-    "runtime-main.js.map": "/shop-hub2/static/js/runtime-main.fb4bd158.js.map",
-    "static/js/2.7cc6c66f.chunk.js": "/shop-hub2/static/js/2.7cc6c66f.chunk.js",
-    "static/js/2.7cc6c66f.chunk.js.map": "/shop-hub2/static/js/2.7cc6c66f.chunk.js.map",
-    "index.html": "/shop-hub2/index.html",
-    "precache-manifest.6be63624d59b57e8d5bb57567c50b2ca.js": "/shop-hub2/precache-manifest.6be63624d59b57e8d5bb57567c50b2ca.js",
-    "service-worker.js": "/shop-hub2/service-worker.js",
-    "static/css/main.053be60a.chunk.css.map": "/shop-hub2/static/css/main.053be60a.chunk.css.map",
-    "static/js/2.7cc6c66f.chunk.js.LICENSE": "/shop-hub2/static/js/2.7cc6c66f.chunk.js.LICENSE"
+    "main.css": "/fedasamehShp.github.io/static/css/main.053be60a.chunk.css",
+    "main.js": "/fedasamehShp.github.io/static/js/main.84f12a0d.chunk.js",
+    "main.js.map": "/fedasamehShp.github.io/static/js/main.84f12a0d.chunk.js.map",
+    "runtime-main.js": "/fedasamehShp.github.io/static/js/runtime-main.15894075.js",
+    "runtime-main.js.map": "/fedasamehShp.github.io/static/js/runtime-main.15894075.js.map",
+    "static/js/2.7cc6c66f.chunk.js": "/fedasamehShp.github.io/static/js/2.7cc6c66f.chunk.js",
+    "static/js/2.7cc6c66f.chunk.js.map": "/fedasamehShp.github.io/static/js/2.7cc6c66f.chunk.js.map",
+    "index.html": "/fedasamehShp.github.io/index.html",
+    "precache-manifest.44aeef2641ee6b21a6198ad8407e3b67.js": "/fedasamehShp.github.io/precache-manifest.44aeef2641ee6b21a6198ad8407e3b67.js",
+    "service-worker.js": "/fedasamehShp.github.io/service-worker.js",
+    "static/css/main.053be60a.chunk.css.map": "/fedasamehShp.github.io/static/css/main.053be60a.chunk.css.map",
+    "static/js/2.7cc6c66f.chunk.js.LICENSE": "/fedasamehShp.github.io/static/js/2.7cc6c66f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb4bd158.js",
+    "static/js/runtime-main.15894075.js",
     "static/js/2.7cc6c66f.chunk.js",
     "static/css/main.053be60a.chunk.css",
     "static/js/main.84f12a0d.chunk.js"
