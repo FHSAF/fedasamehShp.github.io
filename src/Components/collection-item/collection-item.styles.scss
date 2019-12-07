@@ -1,9 +1,15 @@
+$break-small: 800px;
+$break-large: 1200px;
 .collection-item {
     width: 22%;
     display: flex;
     flex-direction: column;
     height: 350px;
     align-items: center;
+    @media screen and (max-width: $break-small) {
+      width: 95%;
+      margin: 10px auto;
+    }
   
     .image {
       width: 100%;

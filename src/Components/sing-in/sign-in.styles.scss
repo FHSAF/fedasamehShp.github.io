@@ -1,0 +1,14 @@
+$break-small: 800px;
+$break-large: 1200px;
+.sign-in{
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+
+    .title{
+        margin: 10px;
+    }
+    @media screen and (max-width: $break-small) {
+        width: auto;
+      }
+}
