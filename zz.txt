@@ -1,0 +1,8 @@
+react router dom
+
+
+yarn add react-router-dom
+
+"resuolutions":{
+    "react-script": "version"
+}
