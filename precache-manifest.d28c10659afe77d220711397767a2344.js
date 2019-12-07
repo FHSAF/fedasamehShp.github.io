@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f42c3c0f839eb9c07e0d066fbd34280",
+    "revision": "dae085a432b9cfce38de22630ac5e168",
     "url": "/fedasamehShp.github.io/index.html"
   },
   {
-    "revision": "e88f037a83e2a83932ef",
-    "url": "/fedasamehShp.github.io/static/css/main.dda7d0e9.chunk.css"
+    "revision": "c3210620aaf9d329d319",
+    "url": "/fedasamehShp.github.io/static/css/main.ac4e7c3b.chunk.css"
   },
   {
     "revision": "1f13892805685d16d719",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fedasamehShp.github.io/static/js/2.50809814.chunk.js.LICENSE"
   },
   {
-    "revision": "e88f037a83e2a83932ef",
+    "revision": "c3210620aaf9d329d319",
     "url": "/fedasamehShp.github.io/static/js/main.e3fb5310.chunk.js"
   },
   {
